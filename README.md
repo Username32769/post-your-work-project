@@ -19,7 +19,7 @@ python bikeshare_2.py
 
 
 ## Credits
-
+the project was forked from https://github.com/udacity/post-your-work-project.git
 
 ## Date created
 
